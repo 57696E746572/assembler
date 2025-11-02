@@ -1,3 +1,4 @@
+
 mov eax, 20    	; eax=20
 mov ebx, 5      ; ebx=10
 mov ecx, 10     ; ecx=10
